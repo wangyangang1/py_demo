@@ -1,2 +1,5 @@
 def index():
 	return 'index'
+
+def SayHi():
+	return 'Hi'
