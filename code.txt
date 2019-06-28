@@ -1,3 +1,2 @@
-haah
 def index():
 	return 'index'
